@@ -1,6 +1,5 @@
 ## Makarov Ilya
 
-![sorry, error](../img/port.png)
 ---
 #### My contact information
 * location: Russia, Chelyabinsk
