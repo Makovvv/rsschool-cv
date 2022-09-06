@@ -1,10 +1,12 @@
 ## Makarov Ilya
+
+![sorry, error](../img/port.png)
 ---
 #### My contact information
 * location: Russia, Chelyabinsk
 * Email: makarov.i.1415@gmail.com
 * GitHub: [makovvv](https://github.com/Makovvv)
-* Discord: makov#0668
+* Discord: Makarov Ilya (@Makovvv)
 
 ---
 #### About me
