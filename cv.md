@@ -5,6 +5,7 @@
 * Email: makarov.i.1415@gmail.com
 * GitHub: [makovvv](https://github.com/Makovvv)
 * Discord: makov#0668
+
 ---
 #### About me
 
@@ -19,7 +20,7 @@
 * HTML 
 * CSS 
 * JavaScript
-* Figma
+
 ---
 #### Code examples
 ---
