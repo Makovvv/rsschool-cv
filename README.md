@@ -1,1 +1,1 @@
-# rsschool-cv
+https://makovvv.github.io/rsschool-cv/
